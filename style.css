@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 40px;
+    font-size: large;
+}
+
+span {
+    color: red;
+}
